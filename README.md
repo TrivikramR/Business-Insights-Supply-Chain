@@ -19,6 +19,6 @@ Create relevant insights not provided in the metric list/stakeholder meeting.
 **Data Model**
 
 <p align="center">
-  <img src="https://github.com/TrivikramR/Business-Insights-Supply-Chain/blob/main/Dashboard-supply%20chain.png" width="300">
+  <img src="https://github.com/TrivikramR/Business-Insights-Supply-Chain/blob/main/Dashboard-supply%20chain.png" width="800">
 </p>
 
