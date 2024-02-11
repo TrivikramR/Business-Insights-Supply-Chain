@@ -29,3 +29,5 @@ Create relevant insights not provided in the metric list/stakeholder meeting.
 <p align="center">
   <img src="https://github.com/TrivikramR/Business-Insights-Supply-Chain/blob/main/Dashboard-supply%20chain.png" width="1000">
 </p>
+
+You can check the report here : [Report](https://github.com/TrivikramR/Business-Insights-Supply-Chain/blob/main/Supply%20Chain.pbix)
